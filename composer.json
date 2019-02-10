@@ -1,9 +1,10 @@
 {
   "name": "firegento/mageuc-supporter",
-  "license": [
-    "GPL-3.0-only"
-  ],
+  "license": "GPL-3.0-only",
   "type": "magento-module",
   "description": "FireGento MageUC Supporter Module for FireGento Shop",
-  "homepage": "https://github.com/firegento/m1-mageuc-supporter"
+  "homepage": "https://github.com/firegento/m1-mageuc-supporter",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
 }

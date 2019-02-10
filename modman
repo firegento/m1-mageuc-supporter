@@ -1,0 +1,3 @@
+src/app/code/local/MageUC/Supporter/                    app/code/local/MageUC/Supporter/
+src/app/etc/modules/MageUC_Supporter.xml                app/etc/modules/MageUC_Supporter.xml
+src/app/design/frontend/base/default/mageuc/supporter/  app/design/frontend/base/default/mageuc/supporter/
