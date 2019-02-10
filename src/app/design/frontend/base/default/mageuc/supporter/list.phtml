@@ -1,0 +1,11 @@
+<?php
+/** @var MageUC_Supporter_Block_Api_Supporter_List $this */
+$_supporterList = $this->getSupporterList();
+
+?>
+
+<ul class="mageuc-supporter">
+    <?php foreach($_supporterList as $_supporter): ?>
+        <li><?php echo $this->escapeHtml($_supporter) ?></li>
+    <?php endforeach; ?>
+</ul>

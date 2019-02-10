@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageUC_Supporter>
+            <version>1.0.0</version>
+        </MageUC_Supporter>
+    </modules>
+    <global>
+        <models>
+            <mageuc_supporter>
+                <class>MageUC_Supporter_Model</class>
+            </mageuc_supporter>
+        </models>
+        <blocks>
+            <mageuc_supporter>
+                <class>MageUC_Supporter_Block</class>
+            </mageuc_supporter>
+        </blocks>
+        <helpers>
+            <mageuc_supporter>
+                <class>MageUC_Supporter_Helper</class>
+            </mageuc_supporter>
+        </helpers>
+    </global>
+    <frontend>
+        <routers>
+            <mageuc_supporter>
+                <use>standard</use>
+                <args>
+                    <frontName>mageuc</frontName>
+                    <module>MageUC_Supporter</module>
+                </args>
+            </mageuc_supporter>
+        </routers>
+    </frontend>
+</config>

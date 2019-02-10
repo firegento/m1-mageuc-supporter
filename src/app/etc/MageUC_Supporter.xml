@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageUC_Supporter>
+            <active>true</active>
+            <codePool>local</codePool>
+        </MageUC_Supporter>
+    </modules>
+</config>
