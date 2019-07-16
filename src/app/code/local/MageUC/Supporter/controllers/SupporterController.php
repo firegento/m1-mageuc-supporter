@@ -47,7 +47,7 @@ class MageUC_Supporter_SupporterController extends Mage_Core_Controller_Front_Ac
 
         $this->getResponse()->setHeader('content-type', 'text/html', true);
         if ('toJson' === $outputMethod) {
-            $this->getResponse()->setHeader('content-type', 'application/json', true);
+            $this->getResponse()->setHeader('content-type', 'application/javascript', true);
             if($providedCallback){
                 $output = $providedCallback.'('.$output.')';
             }
