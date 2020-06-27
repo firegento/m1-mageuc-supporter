@@ -29,4 +29,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Copyright
 
-(c) 2013-2019 FireGento Team
+(c) 2013-2020 FireGento Team
