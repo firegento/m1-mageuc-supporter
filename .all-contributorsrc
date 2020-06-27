@@ -1,0 +1,42 @@
+{
+  "projectName": "m1-mageuc-supporter",
+  "projectOwner": "firegento",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "mautz-et-tong",
+      "name": "Andreas Mautz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12797503?v=4",
+      "profile": "https://webvisum.de/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "riconeitzel",
+      "name": "Rico Neitzel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/930706?v=4",
+      "profile": "http://www.riconeitzel.de/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kkrieger85",
+      "name": "Kevin Krieger",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4435523?v=4",
+      "profile": "https://github.com/kkrieger85",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
